@@ -21,7 +21,7 @@ repository: "https://github.com/bsnmldb/bsnmldb.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "goujuan.png"
+  avatar: "cat.png"
   name: "Yiwei Liu"
   pronouns: # example: "she/her"
   bio: "Welcome to my page!"
