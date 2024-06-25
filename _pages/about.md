@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 + B.Sc. Student
-+ [Websoft Research Group](http://ws.nju.edu.cn/wiki/) , [State Key Laboratory for Novel Software Technology at Nanjing University](https://keysoftlab.nju.edu.cn/main.htm)
++ [Websoft Research Group](http://ws.nju.edu.cn/wiki/)
++ [State Key Laboratory for Novel Software Technology at Nanjing University](https://keysoftlab.nju.edu.cn/main.htm)
 + Department of Computer Science and Technology, [Nanjing University](https://www.nju.edu.cn/en/)
 
 Contact:
