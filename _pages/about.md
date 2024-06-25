@@ -17,18 +17,18 @@ Contact:
 + Office: 413, Building of Computer Science and Technology, Xianlin Campus of Nanjing University
 + Email: ywliu AT smail DOT nju DOT edu DOT cn
 
-# About
+# About Me
 
 I'm a third year undergraduate student from [Nanjing University](https://www.nju.edu.cn/). I will study for a M.Sc. degree in the [Websoft Research Group](http://ws.nju.edu.cn/wiki/) at Nanjing University. I am supervised by [Gong Cheng](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=程龚) (程龚). My research interest includes machine learning, natural language processing and reasoning.
 
 # Edu. & Work Experience
 
-- Tencent IEG (Aug 2024 - now), Shenzhen, China
+- Tencent IEG (Aug 2024 - now), Shenzhen
   - Interning as Software Development Intern
-- Nanjing University, Websoft (Sep 2022 - now), Nanjing, China
+- Nanjing University, Websoft (Sep 2022 - now), Nanjing
   - Studying for a M.Sc. Degree in Computer Science and Technology
   - Advisor: [Gong Cheng](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=程龚)
-- Nanjing University (Sep 2021 - now), Nanjing, China
+- Nanjing University (Sep 2021 - now), Nanjing
   - Studying for a B.Sc. Degree in Computer Science and Technology
 
 # Publications
