@@ -40,6 +40,12 @@ I'm a third year undergraduate student from [Nanjing University](https://www.nju
 
 
 
+# Curriculum Vitae
+
+You can find my CV [here](https://bsnmldb.github.io/files/CV.pdf).
+
+
+
 # Awards & Honors
 
 + 2023年人民奖学金一等奖
