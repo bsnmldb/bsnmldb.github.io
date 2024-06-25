@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale: "en-US"
-title: "Your Name / Site Title"
+locale: "China"
+title: "Yiwei Liu"
 title_separator: "-"
-name: &name "Your Name"
+name: &name "Yiwei Liu"
 description: &description "personal description"
-url: https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://bsnmldb.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "academicpages/academicpages.github.io"
+repository: "https://github.com/bsnmldb/bsnmldb.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   pronouns: # example: "she/her"
   bio: "Welcome to my page!"
   location: "Nanjing, China"
-  employer: "Red Brick University"
+  employer: "Nanjing University"
   uri: # URL
   email: "ywliu@smail.nju.edu.cn"
 
@@ -43,7 +43,7 @@ author:
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "academicpages"
+  github: "https://github.com/bsnmldb"
   kaggle: # Username
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
