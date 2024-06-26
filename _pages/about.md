@@ -24,7 +24,7 @@ I'm a third year undergraduate student from [Nanjing University](https://www.nju
 # Edu. & Work Experience
 
 - Tencent IEG (Aug 2024 - now), Shenzhen
-  - Interning as Software Development Intern
+  - Interning as SWE
 - Nanjing University, Websoft (Sep 2022 - now), Nanjing
   - Studying for a M.Sc. Degree in Computer Science and Technology
   - Advisor: [Gong Cheng](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=程龚)
