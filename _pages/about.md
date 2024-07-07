@@ -51,3 +51,9 @@ You can find my CV [here](https://bsnmldb.github.io/files/CV.pdf).
 + 2023年人民奖学金一等奖
 + 2022年长江苏友奖学金
 + 2022年南京大学新生学院优秀学生
+
+
+
+# Friend Link
+
+[Home | ningninger](https://ningninger.github.io/)
