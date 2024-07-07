@@ -56,4 +56,4 @@ You can find my CV [here](https://bsnmldb.github.io/files/CV.pdf).
 
 # Friend Link
 
-[Home \| ningninger](https://ningninger.github.io/)
+[Home \| ningninger](https://ningninger.github.io/):  an undergraduate passionate about Programing Language (PL).
