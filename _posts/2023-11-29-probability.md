@@ -1,7 +1,7 @@
 ---
 title: 'A Concise Introduction to Probability Theory'
 date: 2024-11-01
-permalink: /posts/2023/probability/
+permalink: /posts/2023/11/probability/
 tags:
   - probability theory
 ---

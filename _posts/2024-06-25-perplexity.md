@@ -1,7 +1,7 @@
 ---
 title: 'Understanding Perplexity in NLP'
 date: 2024-06-25
-permalink: /posts/2024/perplexity/
+permalink: /posts/2024/06/perplexity/
 tags:
   - natural language processing
   - perplexity
