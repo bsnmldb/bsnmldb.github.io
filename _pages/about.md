@@ -38,8 +38,8 @@ I'm a third year undergraduate student from [Nanjing University](https://www.nju
 
 + later<!--LogiNumBENCH: Benchmarking Joint Numerical and Logical Reasoning over Natural Language ([Artifact](https://github.com/nju-websoft/LogiNumBENCH))-->
   + later<!--**Yiwei Liu**, Xiao Li, Gong Cheng<sup>*</sup>-->
-+ [FormulaQA: A Question Answering Dataset for Formula-Based Numerical Reasoning](https://arxiv.org/abs/2402.12692)
-  + Xiao Li, Sichen Liu, Bolin Zhu, Yin Zhu, **Yiwei Liu**, Gong Cheng<sup>*</sup>
++ later<!--[FormulaQA: A Question Answering Dataset for Formula-Based Numerical Reasoning](https://arxiv.org/abs/2402.12692)-->
+  + later<!--Xiao Li, Sichen Liu, Bolin Zhu, Yin Zhu, **Yiwei Liu**, Gong Cheng<sup>*</sup>-->
 
 
 
@@ -53,6 +53,7 @@ You can find my CV [here](https://bsnmldb.github.io/files/CV.pdf).
 
 # Awards & Honors
 
++ 2024年国家奖学金
 + 2023年人民奖学金一等奖
 + 2022年长江苏友奖学金
 + 2022年南京大学新生学院优秀学生
