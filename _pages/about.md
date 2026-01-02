@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-+ B.Sc. Student
++ Master Student at Nanjing University
 + [Websoft Research Group](http://ws.nju.edu.cn/wiki/)
 + [State Key Laboratory for Novel Software Technology at Nanjing University](https://keysoftlab.nju.edu.cn/main.htm)
 + Department of Computer Science and Technology, [Nanjing University](https://www.nju.edu.cn/en/)
@@ -18,8 +18,7 @@ Contact:
 + Email: ywliu AT smail DOT nju DOT edu DOT cn
 
 # About Me
-
-I'm a third year undergraduate student from [Nanjing University](https://www.nju.edu.cn/). I will study for a M.Sc. degree in the [Websoft Research Group](http://ws.nju.edu.cn/wiki/) at Nanjing University. I am supervised by [Gong Cheng](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=程龚) (程龚). My research interest includes machine learning, natural language processing and reasoning.
+I'm a graduate student from [Nanjing University](https://www.nju.edu.cn/), studying for a M.Sc. degree in the [Websoft Research Group](http://ws.nju.edu.cn/wiki/). I am supervised by [Gong Cheng](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=程龚) (程龚). My research interests include natural language processing, reasoning, and information retrieval.
 
 # Edu. & Work Experience
 
@@ -29,19 +28,17 @@ I'm a third year undergraduate student from [Nanjing University](https://www.nju
 - Nanjing University, Websoft (Sep. 2022 - now), Nanjing
   - Studying for a M.Sc. Degree in Computer Science and Technology from 2025
   - Advisor: [Gong Cheng](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=程龚)
-- Nanjing University (Sep. 2021 - now), Nanjing
+- Nanjing University (Sep. 2021 - Jul. 2025), Nanjing
   - Studying for a B.Sc. Degree in Computer Science and Technology
 
 
-
+<!-- 
 # Publications
 
 + later<!--LogiNumBENCH: Benchmarking Joint Numerical and Logical Reasoning over Natural Language ([Artifact](https://github.com/nju-websoft/LogiNumBENCH))-->
-  + later<!--**Yiwei Liu**, Xiao Li, Gong Cheng<sup>*</sup>-->
-+ later<!--[FormulaQA: A Question Answering Dataset for Formula-Based Numerical Reasoning](https://arxiv.org/abs/2402.12692)-->
-  + later<!--Xiao Li, Sichen Liu, Bolin Zhu, Yin Zhu, **Yiwei Liu**, Gong Cheng<sup>*</sup>-->
-
-
+  <!-- + later**Yiwei Liu**, Xiao Li, Gong Cheng<sup>*</sup> -->
+<!-- + later[FormulaQA: A Question Answering Dataset for Formula-Based Numerical Reasoning](https://arxiv.org/abs/2402.12692) -->
+  <!-- + laterXiao Li, Sichen Liu, Bolin Zhu, Yin Zhu, **Yiwei Liu**, Gong Cheng<sup>*</sup> -->
 
 
 
