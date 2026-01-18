@@ -22,6 +22,12 @@ I'm a graduate student from [Nanjing University](https://www.nju.edu.cn/), study
 
 # Edu. & Work Experience
 
+- Ant Group (Dec. 2024 - now), Shanghai
+  - Algorithm Engineer Intern
+  - Working on efficient evaluation for RAG systems
+- Qiyuan Lab (Jun. 2025 - Sep. 2025), Beijing
+  - Algorithm Engineer Intern
+  - Contributed to a large-scale multimodal model evaluation system, including benchmarking multiple open-source MLLMs and robustness evaluation (attacks/perturbations/defenses)
 - Tencent IEG, Timi (Aug. 2024 - Oct. 2024), Shenzhen
   - Interning as SWE
   - Building a Voice Interaction System for Games
@@ -31,32 +37,29 @@ I'm a graduate student from [Nanjing University](https://www.nju.edu.cn/), study
 - Nanjing University (Sep. 2021 - Jul. 2025), Nanjing
   - Studying for a B.Sc. Degree in Computer Science and Technology
 
-
-<!-- 
 # Publications
 
-+ later<!--LogiNumBENCH: Benchmarking Joint Numerical and Logical Reasoning over Natural Language ([Artifact](https://github.com/nju-websoft/LogiNumBENCH))-->
-  <!-- + later**Yiwei Liu**, Xiao Li, Gong Cheng<sup>*</sup> -->
-<!-- + later[FormulaQA: A Question Answering Dataset for Formula-Based Numerical Reasoning](https://arxiv.org/abs/2402.12692) -->
-  <!-- + laterXiao Li, Sichen Liu, Bolin Zhu, Yin Zhu, **Yiwei Liu**, Gong Cheng<sup>*</sup> -->
+- LogiNumSynth: Synthesizing Joint Logical–Numerical Reasoning Problems for Language Models  
+  **Yiwei Liu**, Yucheng Li, Xiao Li, Gong Cheng  
+  [arXiv](https://arxiv.org/abs/2510.11031) / [Code](https://github.com/nju-websoft/LogiNumSynth)  
+  A fully controllable synthesizer for joint logical-numerical reasoning with process-level evaluation.
 
-
+- FormulaReasoning: A Dataset for Formula-Based Numerical Reasoning  
+  Xiao Li, Bolin Zhu, Kaiwen Shi, Sichen Liu, Yin Zhu, **Yiwei Liu**, Gong Cheng  
+  [arXiv](https://arxiv.org/abs/2402.12692) / [Code](https://github.com/nju-websoft/FormulaReasoning)  
+  A dataset for formula-based numerical reasoning.
 
 # Curriculum Vitae
 
 You can find my CV [here](https://bsnmldb.github.io/files/CV.pdf).
 
-
-
 # Awards & Honors
-
-+ 2024年国家奖学金
-+ 2023年人民奖学金一等奖
-+ 2022年长江苏友奖学金
-+ 2022年南京大学新生学院优秀学生
-
++ National Scholarship for Graduate Students of China, 2024
++ People's Scholarship First Prize, 2023
++ Yangtze River Alumni Scholarship, 2022
++ Outstanding Student of Freshman College, Nanjing University, 2022
 
 
 # Friend Link
-
-[ ningninger's Blog](https://ningninger.github.io/):  an undergraduate passionate about Programing Language (PL).
++ [Ningninger's Blog](https://ningninger.github.io/): a graduate student at Nanjing University, passionate about Programming Language (PL).
++ [Yucheng Li's Homepage](https://kaka1215.github.io/): a graduate student at Nanjing University, focusing on KG and RAG.
