@@ -41,12 +41,12 @@ I'm a graduate student from [Nanjing University](https://www.nju.edu.cn/), study
 
 - LogiNumSynth: Synthesizing Joint Logical–Numerical Reasoning Problems for Language Models  
   **Yiwei Liu**, Yucheng Li, Xiao Li, Gong Cheng  
-  [arXiv](https://arxiv.org/abs/2510.11031) / [Code](https://github.com/nju-websoft/LogiNumSynth)  
+  [Paper](https://arxiv.org/abs/2510.11031) / [Code](https://github.com/nju-websoft/LogiNumSynth)  
   A fully controllable synthesizer for joint logical-numerical reasoning with process-level evaluation.
 
 - FormulaReasoning: A Dataset for Formula-Based Numerical Reasoning  
   Xiao Li, Bolin Zhu, Kaiwen Shi, Sichen Liu, Yin Zhu, **Yiwei Liu**, Gong Cheng  
-  [arXiv](https://arxiv.org/abs/2402.12692) / [Code](https://github.com/nju-websoft/FormulaReasoning)  
+  [Paper](https://arxiv.org/abs/2402.12692) / [Code](https://github.com/nju-websoft/FormulaReasoning)  
   A dataset for formula-based numerical reasoning.
 
 # Curriculum Vitae
