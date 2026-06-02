@@ -1,10 +1,11 @@
 ---
-title: 'Understanding Perplexity in NLP'
-date: 2024-06-25
-permalink: /posts/2024/06/perplexity/
-tags:
-  - natural language processing
-  - perplexity
+title: Understanding Perplexity in NLP
+author: yiwei
+date: '2024-06-25 00:00:00 +0800'
+categories: [NLP]
+tags: [natural language processing, perplexity, notes]
+pin: false
+math: true
 ---
 
 When trying to understand the relationship between perplexity and entropy, I searched through many resources on the Internet, but none provided a detailed formula derivation and understanding. Therefore, I have written this article to document my thoughts.
@@ -33,4 +34,3 @@ $$
 # Entropy
 
 未完待续...
-
